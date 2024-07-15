@@ -16,7 +16,7 @@ Provide skills and associated project. Make sure to hyperlink the project
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href= "https://github.com/lexxy2422/Detection-Lab/edit/main/README.md>Detection Lab "</a> |
+| SIEM Implementation and Log Analysis          | <a href= "https://github.com/lexxy2422/Detection-Lab/edit/main/README.md"/>Detection Lab </a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -62,6 +62,6 @@ Provide certifications that you have obtained.
 </div>
 
 ## Projects
-- <a href="https://github.com/lexxy2422/Detection-Lab/edit/main/README.md>Detection Lab "</a>
+- <a href="https://github.com/lexxy2422/Detection-Lab/edit/main/README.md"/>Detection Lab </a>
 - SOC Automation Project
 - Test project
