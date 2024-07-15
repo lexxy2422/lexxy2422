@@ -62,6 +62,6 @@ Provide certifications that you have obtained.
 </div>
 
 ## Projects
-- <a href="https://github.com/lexxy2422/Detection-Lab/edit/main/README.md>Detection Lab</a>
+- <a href="https://github.com/lexxy2422/Detection-Lab/edit/main/README.md>Detection Lab "</a>
 - SOC Automation Project
 - Test project
