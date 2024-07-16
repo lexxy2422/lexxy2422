@@ -1,10 +1,10 @@
-# Hello, I'm Adebayo Paul Oke
+# Hello, I'm Adebayo
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-8819a91b7?&style=for-the-badge&logo=linkdin&logoColor=black" /></a>
 <a href="https://youtube.com"><img src="https://img.shields.io/badge/-youtube-@_paulexxy2021?&style=for-the-badge&logo=youtube&logoColor=black" /></a>
  
-Brief Introduction 
+Professional Brief Introduction:
 
-I am a graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a graduate with a deep passion for technology and a dedication to solving complex problems.
 
 ## Objective
 Provide Objective 
