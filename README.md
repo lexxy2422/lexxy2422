@@ -1,5 +1,5 @@
 # Hello, I'm Adebayo
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-8819a91b7?&style=for-the-badge&logo=linkdin&logoColor=black" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-8819a91b7?&style=for-the-badge&logo=linkdin&logoColor=blue" /></a>
 <a href="https://youtube.com"><img src="https://img.shields.io/badge/-youtube-@_paulexxy2021?&style=for-the-badge&logo=youtube&logoColor=black" /></a>
  
 Professional Brief Introduction:
